@@ -13,3 +13,10 @@ Zenn側の画像で分からないことがあれば、中身を開いて確認�
 | SDF用のMaterialFunction | /Game/SDFSample/Materials/Functions |
 
 ![](./Images/T_README_02.png)
+
+## 本の内容はZennで公開中
+
+SDFを通してShaderを学習するための本を執筆しました。
+プロジェクトのマテリアルの解説は以下のURLから読むことができます。
+
+[📖技術書典17 SDFは☆を描く](https://zenn.dev/posita33/books/ue5_shader_book_001/viewer/chap_0c_00_00_index)
